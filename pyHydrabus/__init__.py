@@ -22,6 +22,7 @@ from .utils import *
 from .swd import *
 from .nfc import *
 from .mmc import *
+from .pic18 import *
 
 import logging
 
